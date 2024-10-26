@@ -64,6 +64,12 @@ As a consequence of all that, the only sure way to ensure some issue gets fixed 
 
 As you contribute more and more, you will eventually get nominated as a committer on the project.
 
+## Contact
+
+If you have questions about contributions or would like to get in touch with the developers of the Eclipse IDE, join the [Eclipse Foundation chat](https://chat.eclipse.org/docs/) and visit the rooms
+- [Eclipse IDE](https://chat.eclipse.org/#/room/#eclipse-ide-general:matrix.eclipse.org)
+- [Eclipse IDE Newcommers](https://chat.eclipse.org/#/room/#eclipse-ide-newcomers:matrix.eclipse.org)
+
 ## Technical and reference documentation
 
 Comprehensive technical documentation of the different components can be found at
