@@ -33,7 +33,7 @@ Once you have the Eclipse Installer, you can set up both an IDE and a workspace 
 
 **💡 Tip:** If you're on a Mac, you're using the latest version of the installer, because there used to be problems with drag&drop.
 
-If you have not yet chosen a projec to contribute to, you can for example use the setup for **eclipse.platform.ui** [![Copy this link](https://img.shields.io/badge/Setup-orange)](https://raw.githubusercontent.com/eclipse-platform/eclipse.platform.ui/master/releng/org.eclipse.ui.releng/platformUIConfiguration.setup "Drag this setup URL in the Eclipse installer Banner"). This will allow you to get familiar with the contribution process.
+If you have not yet chosen a project to contribute to, you can for example use the setup for **eclipse.platform.ui** [![Copy this link](https://img.shields.io/badge/Setup-orange)](https://raw.githubusercontent.com/eclipse-platform/eclipse.platform.ui/master/releng/org.eclipse.ui.releng/platformUIConfiguration.setup "Drag this setup URL in the Eclipse installer Banner"). This will allow you to get familiar with the contribution process.
 
 ### Drag and drop the setup link in the banner
 
@@ -52,7 +52,7 @@ If you have not yet chosen a projec to contribute to, you can for example use th
    > 💡 **Tip 2**: The [advanced variable configuration](InstallerAdvancedOptions.md#advanced-variable-configuration) section describes more possibilities to configure all these locations.
    
    ![RootFolder](images/RootFolder.png)
-5. Follow the remainig steps to complete the installation.
+5. Follow the remaining steps to complete the installation.
 
 The installation process works in two phases:
 - First, the installer will set up the Eclipse IDE needed for development. When you click on finish, your IDE will start. 
